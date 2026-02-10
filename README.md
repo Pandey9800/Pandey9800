@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm [Your Name]
 
-<!--
-**Pandey9800/Pandey9800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET Developer specializing in REST APIs and React Native applications.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C#, .NET Core, SQL
+* React Native, JavaScript
+* REST API Development
+* Git & Version Control
+
+## Featured Projects
+
+### Employee Attendance System
+
+Role-based office management system with attendance tracking, approvals, and export features.
+Tech: .NET API, React Native, SQL
+👉 [View Project](your-repo-link)
+
+### [Project 2 Name]
+
+Short description
+Tech stack
+👉 [View Project](repo-link)
+
+## Contact
+
+Email: [your@email.com](mailto:your@email.com)
