@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Ravishankar Pandey
 
 .NET Developer specializing in REST APIs and React Native applications.
 
@@ -15,7 +15,6 @@
 
 Role-based office management system with attendance tracking, approvals, and export features.
 Tech: .NET API, React Native, SQL
-👉 [View Project](your-repo-link)
 
 ### [Project 2 Name]
 
