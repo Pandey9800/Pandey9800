@@ -16,12 +16,6 @@
 Role-based office management system with attendance tracking, approvals, and export features.
 Tech: .NET API, React Native, SQL
 
-### [Project 2 Name]
-
-Short description
-Tech stack
-👉 [View Project](repo-link)
-
 ## Contact
 
-Email: [your@email.com](mailto:your@email.com)
+Email: [pandey.ravi9800@gmail.com](mailto:pandey.ravi9800@gmail.com)
